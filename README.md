@@ -1,19 +1,19 @@
-##Calculator App (Python Project)
+# Calculator App (Python Project)
 A simple console-based Calculator application built in Python.
 
-##Features
+## Features
 
-Addition, subtraction, multiplication, division
-Takes user input from console
-Displays results instantly
-Simple and beginner-friendly
+- Addition, subtraction, multiplication, division
+- Takes user input from console
+- Displays results instantly
+- Simple and beginner-friendly
 
-##How to Run
+## How to Run
 
 python calculator.py
 (or use python3 if needed)
 
-##Tech Used
+## Tech Used
 
-Python
-Console Input/Output
+- Python
+- Console Input/Output
