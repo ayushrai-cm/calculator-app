@@ -1,4 +1,3 @@
-
 ##Calculator App (Python Project)
 A simple console-based Calculator application built in Python.
 
@@ -18,4 +17,3 @@ python calculator.py
 
 Python
 Console Input/Output
-
